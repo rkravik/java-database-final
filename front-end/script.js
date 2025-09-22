@@ -1,4 +1,4 @@
-const apiURL = '';
+const apiURL = 'https://theiadockernext-0-labs-prod-theiak8s-4-tor01.labs.cognitiveclass.ai:8080';
 let students = [];
 let Ordercount = 1;
 let deleteRow = [];
